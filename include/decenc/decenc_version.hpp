@@ -1,0 +1,1 @@
+#define DECENC_VERSION "0.1"
